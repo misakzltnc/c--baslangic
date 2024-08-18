@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\RK9-1\RK9-1\bin\Debug\net8.0-windows\RK9-1.exe
+C:\Users\HP\source\repos\RK9-1\RK9-1\bin\Debug\net8.0-windows\RK9-1.deps.json
+C:\Users\HP\source\repos\RK9-1\RK9-1\bin\Debug\net8.0-windows\RK9-1.runtimeconfig.json
+C:\Users\HP\source\repos\RK9-1\RK9-1\bin\Debug\net8.0-windows\RK9-1.dll
+C:\Users\HP\source\repos\RK9-1\RK9-1\bin\Debug\net8.0-windows\RK9-1.pdb
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9_1.Form1.resources
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.AssemblyInfo.cs
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.dll
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\refint\RK9-1.dll
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.pdb
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\RK9-1.genruntimeconfig.cache
+C:\Users\HP\source\repos\RK9-1\RK9-1\obj\Debug\net8.0-windows\ref\RK9-1.dll
