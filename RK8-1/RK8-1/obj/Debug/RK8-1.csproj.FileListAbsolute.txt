@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\RK8-1\RK8-1\bin\Debug\RK8-1.exe.config
+C:\Users\HP\source\repos\RK8-1\RK8-1\bin\Debug\RK8-1.exe
+C:\Users\HP\source\repos\RK8-1\RK8-1\bin\Debug\RK8-1.pdb
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8-1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8_1.Form1.resources
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8_1.Properties.Resources.resources
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8-1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8-1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8-1.exe
+C:\Users\HP\source\repos\RK8-1\RK8-1\obj\Debug\RK8-1.pdb
