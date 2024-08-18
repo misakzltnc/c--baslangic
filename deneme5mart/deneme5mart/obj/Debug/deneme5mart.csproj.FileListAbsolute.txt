@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\bin\Debug\deneme5mart.exe.config
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\bin\Debug\deneme5mart.exe
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\bin\Debug\deneme5mart.pdb
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.Form1.resources
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.Properties.Resources.resources
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.exe
+C:\Users\HP\source\repos\deneme5mart\deneme5mart\obj\Debug\deneme5mart.pdb
