@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\10.05.24\10.05.24\bin\Debug\net8.0-windows\10.05.24.exe
+C:\Users\HP\source\repos\10.05.24\10.05.24\bin\Debug\net8.0-windows\10.05.24.deps.json
+C:\Users\HP\source\repos\10.05.24\10.05.24\bin\Debug\net8.0-windows\10.05.24.runtimeconfig.json
+C:\Users\HP\source\repos\10.05.24\10.05.24\bin\Debug\net8.0-windows\10.05.24.dll
+C:\Users\HP\source\repos\10.05.24\10.05.24\bin\Debug\net8.0-windows\10.05.24.pdb
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\_10._05._24.Form1.resources
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.AssemblyInfo.cs
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.dll
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\refint\10.05.24.dll
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.pdb
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\10.05.24.genruntimeconfig.cache
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\ref\10.05.24.dll
+C:\Users\HP\source\repos\10.05.24\10.05.24\obj\Debug\net8.0-windows\_10._05._24.Form2.resources
