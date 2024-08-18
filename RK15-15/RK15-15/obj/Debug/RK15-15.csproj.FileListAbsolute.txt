@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\RK15-15\RK15-15\bin\Debug\RK15-15.exe.config
+C:\Users\HP\source\repos\RK15-15\RK15-15\bin\Debug\RK15-15.exe
+C:\Users\HP\source\repos\RK15-15\RK15-15\bin\Debug\RK15-15.pdb
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15-15.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15_15.Form1.resources
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15_15.Properties.Resources.resources
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15-15.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15-15.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15-15.exe
+C:\Users\HP\source\repos\RK15-15\RK15-15\obj\Debug\RK15-15.pdb
