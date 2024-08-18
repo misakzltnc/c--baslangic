@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\bin\Debug\net8.0-windows\hafta12deneme.exe
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\bin\Debug\net8.0-windows\hafta12deneme.deps.json
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\bin\Debug\net8.0-windows\hafta12deneme.runtimeconfig.json
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\bin\Debug\net8.0-windows\hafta12deneme.dll
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\bin\Debug\net8.0-windows\hafta12deneme.pdb
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.Form1.resources
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.AssemblyInfo.cs
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.dll
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\refint\hafta12deneme.dll
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.pdb
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\hafta12deneme.genruntimeconfig.cache
+C:\Users\HP\source\repos\hafta12deneme\hafta12deneme\obj\Debug\net8.0-windows\ref\hafta12deneme.dll
