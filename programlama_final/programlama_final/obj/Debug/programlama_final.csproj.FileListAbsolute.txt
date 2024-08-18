@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\programlama_final\programlama_final\bin\Debug\programlama_final.exe.config
+C:\Users\HP\source\repos\programlama_final\programlama_final\bin\Debug\programlama_final.exe
+C:\Users\HP\source\repos\programlama_final\programlama_final\bin\Debug\programlama_final.pdb
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.Form1.resources
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.Properties.Resources.resources
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.exe
+C:\Users\HP\source\repos\programlama_final\programlama_final\obj\Debug\programlama_final.pdb
